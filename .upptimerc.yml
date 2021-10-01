@@ -13,8 +13,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://loyalfordogs.com/assets/images/loyal-logo-dark.svg
   name: Loyal Status Page
-  introTitle: "**Loyal** is trying to give us more time with our best friends!"
-  introMessage: This is the status page for monitoring and reporting on the health of [Loyal websites](https://loyalfordogs.com).
+  introTitle: "Giving our best friends more time"
+  introMessage: Status page for monitoring and reporting on the health of [Loyal](https://loyalfordogs.com) websites.
   navbar:
     - title: Status
       href: /
