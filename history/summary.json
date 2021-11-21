@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.loyalfordogs.com",
     "slug": "loyal",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 424,
-    "timeDay": 539,
-    "timeWeek": 414,
-    "timeMonth": 392,
-    "timeYear": 424,
+    "uptimeYear": "99.97%",
+    "time": 421,
+    "timeDay": 248,
+    "timeWeek": 407,
+    "timeMonth": 380,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2021-10-06": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 298,
-    "timeWeek": 521,
-    "timeMonth": 528,
-    "timeYear": 563,
+    "time": 567,
+    "timeDay": 762,
+    "timeWeek": 534,
+    "timeMonth": 539,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   }
 ]
